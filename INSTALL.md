@@ -1,5 +1,9 @@
 # Installation
-Den Code aus [busch-radio-inet.php](busch-radio-inet.php) in ein neues Skript kopieren, einmal ausführen. Nun die IP-Adresse vom Radio in das Skript "Busch-Radio iNet Konfiguration" eintragen, ggf. weitere Einstellungen vornehmen und das Skript "Busch-Radio iNet Aktionsskript" einmal manuell ausführen.
+1. Den Code aus [busch-radio-inet.php](busch-radio-inet.php) in ein neues Skript kopieren
+2. Das Skript ausführen
+3. IP-Adresse vom Radio in das Skript "Busch-Radio iNet Konfiguration" eintragen
+4. (weitere Einstellungen in "Busch-Radio iNet Konfiguration" vornehmen)
+5. Skript "Busch-Radio iNet Aktionsskript" einmal manuell ausführen
 
 # Update
 Den Code aus [busch-radio-inet.php](busch-radio-inet.php) mit dem Code in dem Skript "Busch-Radio iNet Aktionsskript" ersetzen und es einmal manuell ausführen.

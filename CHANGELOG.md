@@ -3,7 +3,7 @@
 * PHP Simple HTML DOM Parser auf Version 1.9.1 (291) geupdated
 * PHP Simple HTML DOM Parser wird von GitHub (baba2k/IPSBusch-Radio-iNet) heruntergeladen
 * Fix: radioIsOnline() gibt Onlinestatus korrekt zurück
-* Code formartiert
+* Code formatiert
 
 # v1.5.0 - 24.04.2016
 * Lautstaerke-Automatik Reset: Beim Ausschalten des Radios wird die Lautstärke (falls sie geändert wurde) auf

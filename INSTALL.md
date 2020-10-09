@@ -6,5 +6,8 @@
 5. Skript "Busch-Radio iNet Aktionsskript" einmal manuell ausführen
 
 # Update
-Den Code aus [busch-radio-inet.php](busch-radio-inet.php) mit dem Code in dem Skript "Busch-Radio iNet Aktionsskript" ersetzen und es einmal manuell ausführen.
-Je nach Versionssprung, muss eventuell das Skript "Busch-Radio iNet Konfiguration" vorher gelöscht werden. Danach muss das Skript neu konfiguriert werden.
+1. Den Code aus [busch-radio-inet.php](busch-radio-inet.php) mit dem Code in dem Skript "Busch-Radio iNet Aktionsskript" ersetzen
+2. Das Skript "Busch-Radio iNet Aktionsskript" ausführen
+
+## Hinweis
+Je nach Versionssprung, muss eventuell das Skript "Busch-Radio iNet Konfiguration" vorher gelöscht und im Anschluss neu konfiguriert werden.

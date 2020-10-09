@@ -1,7 +1,7 @@
 <?
 /********************************************
     Busch-Radio iNet by baba (baba@baba.tk)
-    			Aktionsskript
+    		Aktionsskript
 ********************************************/
 
 IPS_SetScriptTimer($_IPS['SELF'], 0);

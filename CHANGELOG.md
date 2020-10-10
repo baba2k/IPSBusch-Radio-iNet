@@ -1,5 +1,5 @@
 # v1.6.0 - 10.10.2020
-* Kompatibel mit IP-Symcon 5.x
+* Kompatibel mit IP-Symcon 5.x und Firmware 1.19 + 2.02
 * PHP Simple HTML DOM Parser auf Version 1.9.1 (291) geupdated
 * PHP Simple HTML DOM Parser wird von GitHub (baba2k/IPSBusch-Radio-iNet) heruntergeladen
 * Fix: radioIsOnline() gibt Onlinestatus korrekt zurück
